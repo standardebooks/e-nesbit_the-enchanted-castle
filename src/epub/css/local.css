@@ -5,6 +5,10 @@ abbr.name{
 	white-space: nowrap;
 }
 
+abbr.initialism{
+	white-space: nowrap;
+}
+
 b{
 	font-weight: normal;
 	font-variant: small-caps;
@@ -37,7 +41,6 @@ figure + p{
 	text-indent: 0;
 }
 
-/* In all cases, also include the below styles */
 figure img{
 	max-width: 100%;
 	margin: auto;
