@@ -65,7 +65,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3536</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/102288764</dc:source>
-		<meta property="se:word-count">70955</meta>
+		<meta property="se:word-count">70958</meta>
 		<meta property="se:reading-ease.flesch">82.54</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Enchanted_Castle</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/e-nesbit_the-enchanted-castle_h-r-millar</meta>
