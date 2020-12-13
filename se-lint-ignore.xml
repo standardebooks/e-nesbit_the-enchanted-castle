@@ -6,4 +6,10 @@
 			<reason>Duplicate overrides SE base style.</reason>
 		</ignore>
 	</file>
+	<file path="dedication.xhtml">
+		<ignore>
+			<code>c-010</code>
+			<reason>Footer style is unique to the dedication.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
