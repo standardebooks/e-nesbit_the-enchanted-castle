@@ -77,30 +77,8 @@ section[epub|type~="dedication"] footer{
 	display: none;
 }
 
-figure{
-	break-inside: avoid;
-	margin: 1em auto;
-	text-align: center;
-}
-
-figure img{
-	display: block;
-	margin: auto;
-	max-width: 100%;
-}
-
-figcaption{
-	font-size: .75em;
-	font-style: italic;
-	margin: 1em;
-}
-
 footer{
 	text-align: right;
-}
-
-figcaption em{
-	font-style: normal;
 }
 
 [epub|type~="z3998:letter"] header{
