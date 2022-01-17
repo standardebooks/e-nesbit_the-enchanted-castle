@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/e-nesbit/the-enchanted-castle/h-r-millar</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/e-nesbit/the-enchanted-castle</dc:identifier>
 		<dc:date>2018-04-02T03:44:34Z</dc:date>
 		<meta property="dcterms:modified">2018-04-02T03:44:34Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
@@ -60,7 +60,6 @@
 			&lt;p&gt;&lt;i&gt;The Enchanted Castle&lt;/i&gt; is a novel for young readers by &lt;a href="https://standardebooks.org/ebooks/e-nesbit"&gt;Edith Nesbit&lt;/a&gt;, who was writing in the late Victorian and early Edwardian era in Britain. As in her other children’s books, it begins in the everyday world but quickly brings in the fantastical and magical. A large part of the delight of Nesbit’s books is that her children behave in quite ordinary ways, getting into scrapes, getting dirty and their clothes torn, making decisions which seem right to them at the time but which are generally wrong-headed. It’s the contrast between the ordinariness of the children and the magical adventures they become involved in which makes the books so charming.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Enchanted Castle&lt;/i&gt; was originally serialized in &lt;i&gt;The Strand Magazine&lt;/i&gt; alongside stories by &lt;a href="https://standardebooks.org/ebooks/rudyard-kipling"&gt;Rudyard Kipling&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/arthur-conan-doyle"&gt;Arthur Conan Doyle&lt;/a&gt;. The first book edition was published in 1907.&lt;/p&gt;
 			&lt;p&gt;In the story, Kathleen and her brothers Gerald and Jimmy find a way into a remarkable garden designed to create a Palladian landscape, full of statues and pseudo-Classical temples and buildings. It is not long before they come across a sleeping Princess. They wake her, and she introduces them to an item of real magical value, a ring which makes its wearer invisible. But once on, the ring won’t come off! “Those of my readers who have gone about much with an invisible companion will not need to be told how awkward the whole business is,” comments the author, which is indicative of the simple and direct language she uses, and the humor of the books. Even the invisibility ring, however, is not quite as simple as it seems; and many interesting and amusing adventures follow.&lt;/p&gt;
-			&lt;p&gt;The magazine serialization and the first book edition of the novel was beautifully illustrated by &lt;abbr&gt;H. R.&lt;/abbr&gt; Millar, and we have included reproductions of these illustrations in this Standard Ebooks edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3536</dc:source>
@@ -68,7 +67,7 @@
 		<meta property="se:word-count">70499</meta>
 		<meta property="se:reading-ease.flesch">82.54</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Enchanted_Castle</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/e-nesbit_the-enchanted-castle_h-r-millar</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/e-nesbit_the-enchanted-castle</meta>
 		<dc:creator id="author">E. Nesbit</dc:creator>
 		<meta property="file-as" refines="#author">Nesbit, E.</meta>
 		<meta property="se:name.person.full-name" refines="#author">Edith Nesbit</meta>
@@ -80,12 +79,6 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Willard_Metcalf</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n85274600</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="illustrator">H. R. Millar</dc:contributor>
-		<meta property="file-as" refines="#illustrator">Millar, H. R.</meta>
-		<meta property="se:name.person.full-name" refines="#illustrator">Harold Robert Millar</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#illustrator">https://en.wikipedia.org/wiki/H._R._Millar</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n85274600</meta>
-		<meta property="role" refines="#illustrator" scheme="marc:relators">ill</meta>
 		<dc:contributor id="transcriber-1">Suzanne Shell</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Shell, Suzanne</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
