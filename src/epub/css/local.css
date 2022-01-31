@@ -30,8 +30,8 @@ section[epub|type~="dedication"] > *{
 /* End all dedications */
 
 section[epub|type~="dedication"] > p{
-	margin: 3em auto;
 	font-variant: small-caps;
+	margin: 3em auto;
 }
 
 section[epub|type~="dedication"] p{
