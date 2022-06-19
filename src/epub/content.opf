@@ -52,7 +52,7 @@
 		<meta property="term" refines="#subject-7">Unknown</meta>
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">Unknown</meta>
-		<meta property="se:subject">Childrens</meta>
+		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Three children discover a wonderful garden and castle, and come into possession of a magic ring which entangles them in many strange adventures.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
