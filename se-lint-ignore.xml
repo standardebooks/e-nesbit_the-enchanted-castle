@@ -6,6 +6,18 @@
 			<reason>Duplicate overrides SE base style.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-6.xhtml">
+		<ignore>
+			<code>y-035</code>
+			<reason>Text is not a typo.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-7.xhtml">
+		<ignore>
+			<code>y-035</code>
+			<reason>Text is not a typo.</reason>
+		</ignore>
+	</file>
 	<file path="dedication.xhtml">
 		<ignore>
 			<code>c-010</code>
