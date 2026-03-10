@@ -2,21 +2,28 @@
 <se-lint-ignore>
 	<file path="chapter-6.xhtml">
 		<ignore code="y-035">
+			<line>195</line>
 			<reason>Text is not a typo.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-7.xhtml">
 		<ignore code="y-035">
+			<line>13</line>
+			<line>20</line>
+			<line>28</line>
 			<reason>Text is not a typo.</reason>
 		</ignore>
 	</file>
 	<file path="dedication.xhtml">
 		<ignore code="c-010">
+			<line>34</line>
 			<reason>Footer style is unique to the dedication.</reason>
 		</ignore>
 	</file>
 	<file path="local.css">
 		<ignore code="c-009">
+			<line>41</line>
+			<line>45</line>
 			<reason>Duplicate overrides SE base style.</reason>
 		</ignore>
 	</file>
