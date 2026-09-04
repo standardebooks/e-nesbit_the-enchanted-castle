@@ -31,13 +31,13 @@
 		<dc:title id="title">The Enchanted Castle</dc:title>
 		<meta property="file-as" refines="#title">Enchanted Castle, The</meta>
 		<dc:subject id="subject-1">Fantasy fiction, English</dc:subject>
-		<dc:subject id="subject-2">Friendship -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-3">Brothers and sisters -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-4">Magic -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-5">Wishes -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-6">Castles -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-7">Rings -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-8">Great Britain -- History -- Edward VII, 1901-1910 -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-2">Friendship--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-3">Brothers and sisters--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-4">Magic--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-5">Wishes--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-6">Castles--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-7">Rings--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-8">Great Britain--History--Edward VII, 1901-1910--Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85047125</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
