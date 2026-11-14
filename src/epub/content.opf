@@ -80,6 +80,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<dc:contributor id="artist">Willard Metcalf</dc:contributor>
 		<meta property="file-as" refines="#artist">Metcalf, Willard</meta>
+		<meta property="schema:alternateName" refines="#artist">Willard Leroy Metcalf</meta>
 		<link href="https://en.wikipedia.org/wiki/Willard_Metcalf" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n85274600.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
